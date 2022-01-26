@@ -50,5 +50,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vanekj&label=Visitors+Count&color=brightgreen" alt="Visitors Count" />
+  <img src="https://komarev.com/ghpvc/?username=vanekj&label=Visitors+Count&color=lightgrey&style=flat-square" alt="Visitors Count" />
 </p>
