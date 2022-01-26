@@ -46,5 +46,9 @@
 </p>
 
 <p align="center">
-  <a href="https://app.daily.dev"><img src="https://github.com/vanekj/vanekj/blob/master/devcard.svg" width="400" alt="Jakub Vaněk's Dev Card"/></a>
+  <a href="https://app.daily.dev"><img src="https://github.com/vanekj/vanekj/blob/master/devcard.svg" width="400" alt="Jakub Vaněk's Dev Card" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vanekj&label=Visitors+Count&color=brightgreen" alt="Visitors Count" />
 </p>
