@@ -49,11 +49,3 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
-
-<p align="center">
-  <a href="https://app.daily.dev"><img src="https://github.com/vanekj/vanekj/blob/master/devcard.svg" width="400" alt="Jakub Vaněk's Dev Card" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vanekj&label=Visitors+Count&color=lightgrey&style=flat-square" alt="Visitors Count" />
-</p>
